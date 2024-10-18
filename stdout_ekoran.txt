@@ -1,0 +1,241 @@
+Test 1
+Graph 1:
+  Number of Vertices: 1
+  Number of Edges: 0
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 1.1920928955078125e-06
+Graph 2:
+  Number of Vertices: 1
+  Number of Edges: 0
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 7.152557373046875e-07
+Graph 3:
+  Number of Vertices: 1
+  Number of Edges: 0
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 2.384185791015625e-07
+Graph 4:
+  Number of Vertices: 2
+  Number of Edges: 2
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 3.5762786865234375e-06
+Graph 5:
+  Number of Vertices: 2
+  Number of Edges: 2
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 7.152557373046875e-06
+Graph 6:
+  Number of Vertices: 2
+  Number of Edges: 2
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 1.430511474609375e-06
+Graph 7:
+  Number of Vertices: 3
+  Number of Edges: 2
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 5.7220458984375e-06
+Graph 8:
+  Number of Vertices: 3
+  Number of Edges: 6
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 1.9073486328125e-06
+Graph 9:
+  Number of Vertices: 3
+  Number of Edges: 2
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 4.76837158203125e-06
+Graph 10:
+  Number of Vertices: 4
+  Number of Edges: 6
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 2.3603439331054688e-05
+Graph 11:
+  Number of Vertices: 4
+  Number of Edges: 4
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 1.71661376953125e-05
+Graph 12:
+  Number of Vertices: 4
+  Number of Edges: 0
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 9.775161743164062e-06
+Graph 13:
+  Number of Vertices: 5
+  Number of Edges: 4
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 7.700920104980469e-05
+Graph 14:
+  Number of Vertices: 5
+  Number of Edges: 4
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 7.557868957519531e-05
+Graph 15:
+  Number of Vertices: 5
+  Number of Edges: 14
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 8.821487426757812e-06
+Graph 16:
+  Number of Vertices: 6
+  Number of Edges: 0
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 0.0002701282501220703
+Graph 17:
+  Number of Vertices: 6
+  Number of Edges: 14
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.00037097930908203125
+Graph 18:
+  Number of Vertices: 6
+  Number of Edges: 18
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.00010585784912109375
+Graph 19:
+  Number of Vertices: 7
+  Number of Edges: 8
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 0.004222393035888672
+Graph 20:
+  Number of Vertices: 7
+  Number of Edges: 6
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 0.0033631324768066406
+Graph 21:
+  Number of Vertices: 7
+  Number of Edges: 18
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 0.008570432662963867
+Graph 22:
+  Number of Vertices: 8
+  Number of Edges: 52
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 1.430511474609375e-05
+Graph 23:
+  Number of Vertices: 8
+  Number of Edges: 18
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.0049762725830078125
+Graph 24:
+  Number of Vertices: 8
+  Number of Edges: 30
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.0013384819030761719
+Graph 25:
+  Number of Vertices: 9
+  Number of Edges: 16
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 0.39920949935913086
+Graph 26:
+  Number of Vertices: 9
+  Number of Edges: 64
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.0025548934936523438
+Graph 27:
+  Number of Vertices: 9
+  Number of Edges: 54
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.002264738082885742
+Graph 28:
+  Number of Vertices: 10
+  Number of Edges: 44
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.13274502754211426
+Graph 29:
+  Number of Vertices: 10
+  Number of Edges: 16
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 3.917668342590332
+Graph 30:
+  Number of Vertices: 10
+  Number of Edges: 52
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.1029362678527832
+Graph 31:
+  Number of Vertices: 11
+  Number of Edges: 22
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 52.61207365989685
+Graph 32:
+  Number of Vertices: 11
+  Number of Edges: 44
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 1.608255386352539
+Graph 33:
+  Number of Vertices: 11
+  Number of Edges: 38
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.8797972202301025
+Graph 34:
+  Number of Vertices: 12
+  Number of Edges: 0
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 169.62552499771118
+Graph 35:
+  Number of Vertices: 12
+  Number of Edges: 12
+  Hamiltonian Result: False
+  Expected Result: False
+  Elapsed Time: 417.42297983169556
+Graph 36:
+  Number of Vertices: 12
+  Number of Edges: 92
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 0.24648618698120117
+Graph 37:
+  Number of Vertices: 13
+  Number of Edges: 70
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 142.8107168674469
+Graph 38:
+  Number of Vertices: 13
+  Number of Edges: 114
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 190.359233379364
+Graph 39:
+  Number of Vertices: 13
+  Number of Edges: 152
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 4.935264587402344e-05
+Graph 40:
+  Number of Vertices: 14
+  Number of Edges: 96
+  Hamiltonian Result: True
+  Expected Result: True
+  Elapsed Time: 26.541497707366943
